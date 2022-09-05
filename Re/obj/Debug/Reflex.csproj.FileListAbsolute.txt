@@ -1,0 +1,7 @@
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\Re\bin\Debug\Re.exe.config
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\Re\bin\Debug\Re.exe
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\Re\bin\Debug\Re.pdb
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\Re\obj\Debug\Reflex.csproj.SuggestedBindingRedirects.cache
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\Re\obj\Debug\Reflex.csproj.CoreCompileInputs.cache
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\Re\obj\Debug\Re.exe
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\Re\obj\Debug\Re.pdb

@@ -1,0 +1,22 @@
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.AssemblyReference.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.SuggestedBindingRedirects.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.GenerateResource.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.CoreCompileInputs.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.AssemblyReference.cache
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.SuggestedBindingRedirects.cache
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.GenerateResource.cache
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.CoreCompileInputs.cache
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 8\HomeWork_8\HomeWork_8\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb

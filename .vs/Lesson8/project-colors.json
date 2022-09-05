@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4ba7629-07c3-49b1-917f-83572ff69e91": {
+      "ProjectGuid": "f4ba7629-07c3-49b1-917f-83572ff69e91",
+      "DisplayName": "TrueFalseEditor",
+      "ColorIndex": 0
+    },
+    "0adce507-e8b7-4c6a-af2b-6cbca5dbcc64": {
+      "ProjectGuid": "0adce507-e8b7-4c6a-af2b-6cbca5dbcc64",
+      "DisplayName": "Seminar",
+      "ColorIndex": 1
+    },
+    "49560ccb-994e-4fdd-bb30-762a2ba97d36": {
+      "ProjectGuid": "49560ccb-994e-4fdd-bb30-762a2ba97d36",
+      "DisplayName": "Reflex",
+      "ColorIndex": 2
+    },
+    "45da6432-bcf2-4d81-b490-9ab9e027e947": {
+      "ProjectGuid": "45da6432-bcf2-4d81-b490-9ab9e027e947",
+      "DisplayName": "Re",
+      "ColorIndex": 3
+    },
+    "fc0dfa2d-64da-4ef6-b281-60203d9f6e44": {
+      "ProjectGuid": "fc0dfa2d-64da-4ef6-b281-60203d9f6e44",
+      "DisplayName": "Reflex",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
